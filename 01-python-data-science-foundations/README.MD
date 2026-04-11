@@ -1,5 +1,5 @@
 # Python and Data Science Foundations Portfolio
-
+This repository forms part of my technical learning and applied analytics portfolio, documenting foundational work in Python, data processing, and machine learning preparation. It reflects my ongoing transition toward advanced data analytics and data science roles, with an emphasis on practical problem solving, structured analysis, and reproducible notebook based workflows.
 ## Overview
 
 This repository presents a collection of Python notebooks developed as part of my foundational training in Python programming, data handling, and introductory machine learning preparation. The work reflects a structured progression from core programming concepts to applied practice in problem solving, data manipulation, and basic analytical tasks.
